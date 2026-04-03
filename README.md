@@ -73,6 +73,14 @@ This project investigates whether quantum approaches particularly those availabl
 
 ---
 
+## References
+
+External research papers used by this project are tracked in:
+
+* [references/research-papers/README.md](references/research-papers/README.md)
+
+---
+
 ## License
 
 This project is released under the MIT License. See the `LICENSE` file for details.
